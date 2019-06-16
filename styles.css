@@ -3,6 +3,12 @@
 }
 
 .img{
-    width: 500;
-    height: 333
+    width: 200;
+    height: 233;
+    transform: rotate(90deg);
+    margin-left: 42%
+}
+
+.h1{
+    text-align: center;
 }
